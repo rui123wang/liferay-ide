@@ -1,3 +1,7 @@
+
+
+
+
 # Liferay IDE Functional Tests
 
 ## How to run functional tests in local command line
